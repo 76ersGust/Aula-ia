@@ -1,7 +1,4 @@
-Exercícios de Python
-
-
-Nome da disciplina: Programação em Python
+Programação em Python
 
 Professor: Fabiano Bezerra
 
