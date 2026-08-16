@@ -13,6 +13,6 @@ Repositório destinado ao armazenamento dos exercícios e atividades desenvolvid
 
 Arquivos:
 
-Lista de Exercícios Python
-Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
-Atividade_py.ipynb — Notebook contendo atividades e exercícios práticos de Python. (Primeira versão).
+Lista de Exercícios Python:
+[Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb](./Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb) — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
+
