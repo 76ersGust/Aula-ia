@@ -1,10 +1,12 @@
 Exercícios de Python
 
-Informações da disciplina
+
 Nome da disciplina: Programação em Python
+
 Professor: Fabiano Bezerra
+
 Matéria: Inteligência Artificial.
-Semestre: 6
+
 Aluno: Gustavo Palmeira de Jesus Junior
 
 Descrição:
