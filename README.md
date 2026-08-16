@@ -1,5 +1,18 @@
-Matéria: Inteligência Artificial.
+Exercícios de Python
 
+Informações da disciplina
+Nome da disciplina: Programação em Python
 Professor: Fabiano Bezerra
+Matéria: Inteligência Artificial.
+Semestre: 6
+Aluno: Gustavo Palmeira de Jesus Junior
+
+Descrição:
+
+Repositório destinado ao armazenamento dos exercícios e atividades desenvolvidos durante as aulas de Python. Os arquivos apresentam práticas de programação, resolução de exercícios e aplicação dos conceitos estudados na disciplina.
+
+Arquivos:
 
 Lista de Exercícios Python
+Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
+Atividade_py.ipynb — Notebook contendo atividades e exercícios práticos de Python. (Primeira versão).
