@@ -20,3 +20,5 @@ Arquivo com a resolução de uma lista de 50 exercícios de Python, desenvolvido
 
 2- [Exercícios de Bibliotecas Python](Exercícios_Bibliotecas__Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipynb) - Notebook com as Bibliotecas desenvolvidas durante a aula. (Versão Completa)
 
+[vendas.xlsx](vendas.xlsx) - Arquivo complementar para Atividade 2 Pandas 
+
