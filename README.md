@@ -16,7 +16,7 @@ Arquivos:
 
 Arquivo com a resolução de uma lista de 50 exercícios de Python, desenvolvidos em ambiente Jupyter/Colab como parte da disciplina cursada na UMC.:
 
-1- [Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb](./Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb) — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
+1- [Exercícios_Python_50](./Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb) — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
 
 2- [Exercícios de Bibliotecas Python](Exercícios_Bibliotecas__Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipynb) - Notebook com as Bibliotecas desenvolvidas durante a aula. (Versão Completa)
 
