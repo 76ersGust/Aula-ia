@@ -18,5 +18,5 @@ Arquivo com a resolução de uma lista de 50 exercícios de Python, desenvolvido
 
 1- [Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb](./Exercícios_Python_gustavopalmeiradejesusjunior6Bnoturno.ipynb) — Notebook com os exercícios de Python desenvolvidos durante as aulas. (Versão completa)
 
-2- [Exercícios_Bibliotecas__Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipynb](./Exercícios_Bibliotecas__Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipyn) - Notebook com as Bibliotecas desenvolvidas durante a aula. (Versão Completa)
+2- [Exercícios_Bibliotecas_Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipynb](./Exercícios_Bibliotecas__Python_Gustavopalmeiradejesusjunior_6B_Noturno.ipyn) - Notebook com as Bibliotecas desenvolvidas durante a aula. (Versão Completa)
 
