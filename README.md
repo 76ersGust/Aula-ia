@@ -22,3 +22,5 @@ Arquivo com a resolução de uma lista de 50 exercícios de Python, desenvolvido
 
 [vendas.xlsx](vendas.xlsx) - Arquivo complementar para Atividade 2 Pandas 
 
+3- https://www.kaggle.com/code/gustavopalmeira1/dataset-iris-svm-vf atividade svm
+
