@@ -24,3 +24,5 @@ Arquivo com a resolução de uma lista de 50 exercícios de Python, desenvolvido
 
 3- https://www.kaggle.com/code/gustavopalmeira1/dataset-iris-svm-vf atividade svm
 
+4- [Fishmorph_Gustavo.ipynb](Fishmorph_Gustavo.ipynb) - Dataset fish
+
